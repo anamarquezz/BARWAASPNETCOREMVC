@@ -1,0 +1,22 @@
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.deps.json
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.runtimeconfig.json
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.runtimeconfig.dev.json
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.AssemblyInfoInputs.cache
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.AssemblyInfo.cs
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.pdb
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.pdb
+C:\Users\ronnie\source\repos\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.csprojAssemblyReference.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.deps.json
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.runtimeconfig.json
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.runtimeconfig.dev.json
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.0\LittlePacktBookstore.pdb
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.csprojAssemblyReference.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.AssemblyInfoInputs.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.AssemblyInfo.cs
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.0\LittlePacktBookstore.pdb

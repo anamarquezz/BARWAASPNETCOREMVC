@@ -1,0 +1,20 @@
+﻿@model HomeIndexViewModel
+@{
+	ViewData["Title"] = "Index";
+}
+
+@Html.Partial("_Carousel", Model.Carousels)
+
+<h2 class="text text-center">Books' List</h2>
+<div class="container marketing">
+	<div class="row">
+		@foreach (var item in Model.Books)
+		{
+			<div class="col-lg-4">
+				<img class="img img-rounded" src="~/Images/@item.image" alt="@item.Title" width="140">
+				<h5>@item.Title</h5>
+				<p><a class="btn btn-secondary" href="/home/details/@item.Id" role="button">View details »</a></p>
+			</div><!-- /.col-lg-4 -->
+		}
+	</div>
+</div>

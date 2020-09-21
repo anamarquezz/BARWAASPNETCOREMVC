@@ -1,0 +1,24 @@
+﻿@model Book
+@{
+	ViewData["Title"] = "Details";
+}
+
+<section class="jumbotron text-center">
+	<div class="container">
+		<h1 class="jumbotron-heading">@Model.Title</h1>
+		<h5>$@Model.Price</h5>
+	</div>
+</section>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-4">
+			<img src="~/Images/@Model.image" class="img-fluid" alt="@Model.Title image" />
+		</div>
+		<div class="col-lg-8">
+			<p>@Model.Description</p>
+			<a class="btn btn-lg btn-primary" href="/home/order/@Model.Id">Buy</a>
+		</div>
+	</div>
+</div>
+
+
